@@ -48,21 +48,22 @@ The system addresses critical challenges in healthcare waste management, includi
 
 ##  Entity Relationship Diagram
 
-The database consists of the following entities:User ⟷ Role
-Facility ⟷ Department ⟷ Staff
-Facility ⟷ Bin ⟷ Collection
-Bin ⟷ Sensor_Readings
-Bin ⟷ Notifications
-Bin ⟷ Qualifications
-Collection ⟷ Disposal_Records
-User ⟷ Audit_Logs
+The database consists of the following entities:
+**User ⟷ Role**
+**Facility ⟷ Department ⟷ Staff**
+**Facility ⟷ Bin ⟷ Collection**
+**Bin ⟷ Sensor_Readings**
+**Bin ⟷ Notifications**
+**Bin ⟷ Qualifications**
+**Collection ⟷ Disposal_Records**
+**User ⟷ Audit_Logs**
 
 Team Members
 
-Name Role
-Lisa Kushaba - Scrum Master
-Mr. Tony Kisomose - Product Owner
-Job Komakech - Backend Developer
-Mercy Akankunda - Frontend Developer
-Emmanuel Ainomugisha - QA Tester
- Gerald Junior Okware -Documentation Lead
+**Name Role**
+**Lisa Kushaba - Scrum Master**
+**Mr. Tony Kisomose - Product Owner**
+**Job Komakech - Backend Developer**
+**Mercy Akankunda - Frontend Developer**
+**Emmanuel Ainomugisha - QA Tester**
+ **Gerald Junior Okware -Documentation Lead**
