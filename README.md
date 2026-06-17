@@ -59,11 +59,11 @@ The database consists of the following entities:
 **User ⟷ Audit_Logs**
 
 Team Members
-
-**Name Role**
-**Lisa Kushaba - Scrum Master**
-**Mr. Tony Kisomose - Product Owner**
-**Job Komakech - Backend Developer**
-**Mercy Akankunda - Frontend Developer**
-**Emmanuel Ainomugisha - QA Tester**
- **Gerald Junior Okware -Documentation Lead**
+| Name | Role |
+|------|------|
+| **Lisa Kushaba** | Scrum master |
+| **Mr. Tony Kisomose** |  Product Owner |
+| **Job Komakech** | Backend Developer |
+| **Mercy Akankunda** | Frontend Developer |
+| **Emmanuel Ainomugisha** | QA Tester |
+| **Gerald Junior Okware** | Documentation Lead |
